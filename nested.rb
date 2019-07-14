@@ -84,7 +84,6 @@ programmer_hash =
           :languages => ["LISP", "C"]
   }
 }
-
     
 end
 
